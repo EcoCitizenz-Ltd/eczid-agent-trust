@@ -1,5 +1,7 @@
 # ECZ-ID Agent Trust
 
+![ECZ-ID Agent Trust](assets/eczid-agent-trust-hero.png)
+
 **See what your AI agent can reach before you let it act.**
 
 Official public product and documentation home for **ECZ-ID Agent Trust**.
