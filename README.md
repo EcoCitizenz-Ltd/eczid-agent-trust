@@ -6,7 +6,7 @@
 
 Official public product and documentation home for **ECZ-ID Agent Trust**.
 
-[Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ecocitizenz.eczid-ai-agents) | [Open VSX](https://open-vsx.org/extension/ecocitizenz/eczid-ai-agents) | [Product page](https://developers.ecocitizenz.com/agent-trust/) | [Developer Trust suite](https://developers.ecocitizenz.com/developer-trust/)
+[Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ecocitizenz.eczid-ai-agents) | [Open VSX](https://open-vsx.org/extension/ecocitizenz/eczid-ai-agents) | [Product page](https://developers.ecocitizenz.com/agent-trust/) | [Get a free Agent Passport](https://developers.ecocitizenz.com/quickstarts/agent/?utm_source=github&utm_medium=repository&utm_campaign=agent-trust&utm_content=free-passport) | [Developer Trust suite](https://developers.ecocitizenz.com/developer-trust/)
 
 > Extension binaries are distributed through the marketplaces above. This repository is the official public product/documentation home and does not imply that proprietary extension source code is published here.
 
@@ -28,6 +28,14 @@ Current public documentation describes Community capability including:
 For current shipped capability, pricing, and plan availability use the canonical product page:
 
 https://developers.ecocitizenz.com/agent-trust/
+
+## Free Agent identity
+
+If you operate an AI agent, one logical agent can receive one free ECZ-ID Agent Passport. The live public journey also creates a free Business Passport when the organisation does not already have one; no payment is taken for the free Passport journey.
+
+[Start with the Agent Passport quickstart →](https://developers.ecocitizenz.com/quickstarts/agent/?utm_source=github&utm_medium=repository&utm_campaign=agent-trust&utm_content=identity)
+
+The Passport provides identity and a public location for re-checkable current state. It is not a claim that the agent is safe, approved, certified or compliant.
 
 ## Trust boundary
 
