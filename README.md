@@ -14,7 +14,9 @@ Official public product and documentation home for **ECZ-ID Agent Trust**.
 
 Agent Trust gives developers and reviewers a local-first way to inspect supported AI-agent configuration and declared access surfaces before granting trust.
 
-Current public documentation describes Community capability including:
+### Agent Trust Community — free local review
+
+Current Community capability includes:
 
 - per-agent inventory / Agent X-Ray for supported surfaces,
 - declared tool visibility,
@@ -24,6 +26,8 @@ Current public documentation describes Community capability including:
 - VS Code Workspace Trust handling,
 - `ecz-agent.json` validate/scaffold on explicit request,
 - local-first processing with no telemetry.
+
+Community remains usable without a paid Developer Trust entitlement.
 
 For current shipped capability, pricing, and plan availability use the canonical product page:
 
@@ -36,6 +40,41 @@ If you operate an AI agent, one logical agent can receive one free ECZ-ID Agent 
 [Start with the Agent Passport quickstart →](https://developers.ecocitizenz.com/quickstarts/agent/?utm_source=github&utm_medium=repository&utm_campaign=agent-trust&utm_content=identity)
 
 The Passport provides identity and a public location for re-checkable current state. It is not a claim that the agent is safe, approved, certified or compliant.
+
+## Agent Trust Pro
+
+**Agent Trust Pro** is the optional paid local Developer Trust software layer inside the existing Agent Trust extension. It adds the established advanced local controls, including:
+
+- Authority Graph;
+- Authority Epochs / local history and comparison;
+- dangerous action-chain indicators;
+- reciprocal Agent-to-MCP visibility;
+- reviewable local remediation and related local controls.
+
+Agent Trust Pro does not create, replace or meter the free Agent Passport and does not create canonical Resolver truth.
+
+**Developer Trust Pro Bundle** unlocks both Agent Trust Pro and MCP Trust Pro.
+
+[Explore Developer Trust →](https://developers.ecocitizenz.com/developer-trust/)
+
+## Separate organisational product: KYA Authority
+
+**KYA Authority is separate from Agent Trust Pro.** It is a higher-level organisational agent-governance / authority product. It is not the customer-facing name of the `AGENT_TRUST_PRO` software entitlement.
+
+KYA Authority may be relevant when an organisation needs broader governance or authority operations beyond local developer inspection and controls. Buying one product does not silently create or rename the other.
+
+## Product boundary
+
+| Layer | Product / capability |
+|---|---|
+| Free local review | Agent Trust Community |
+| Free durable identity | Agent Passport |
+| Optional paid local Developer Trust software | Agent Trust Pro |
+| Optional paid Developer Trust bundle | Developer Trust Pro Bundle — Agent Trust Pro + MCP Trust Pro |
+| Separate higher-level organisational product | KYA Authority |
+| Public proof | ECZ-ID Resolver |
+
+These layers can work together, but they are not aliases for one another.
 
 ## Trust boundary
 
